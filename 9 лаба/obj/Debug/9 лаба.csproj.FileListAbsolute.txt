@@ -1,0 +1,10 @@
+C:\Users\Nikita\source\repos\laba9\9 лаба\bin\Debug\9 лаба.exe.config
+C:\Users\Nikita\source\repos\laba9\9 лаба\bin\Debug\9 лаба.exe
+C:\Users\Nikita\source\repos\laba9\9 лаба\bin\Debug\9 лаба.pdb
+C:\Users\Nikita\source\repos\laba9\9 лаба\obj\Debug\9 лаба.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\laba9\9 лаба\obj\Debug\_9_лаба.Form1.resources
+C:\Users\Nikita\source\repos\laba9\9 лаба\obj\Debug\_9_лаба.Properties.Resources.resources
+C:\Users\Nikita\source\repos\laba9\9 лаба\obj\Debug\9 лаба.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\laba9\9 лаба\obj\Debug\9 лаба.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\laba9\9 лаба\obj\Debug\9 лаба.exe
+C:\Users\Nikita\source\repos\laba9\9 лаба\obj\Debug\9 лаба.pdb
